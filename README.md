@@ -38,6 +38,3 @@ We welcome contributions from the community to enhance Gemini Chat APK. If you'd
 4. Test your changes thoroughly.
 5. Submit a pull request detailing the changes made and their purpose.
 
-## License
-
-Gemini Chat APK is licensed under the [MIT License](LICENSE).
