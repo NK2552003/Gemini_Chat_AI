@@ -1,7 +1,7 @@
 # Gemini Chat APK
 
 Gemini Chat APK is a demo purpose versatile mobile application that allows users to ask questions in any language and search for image details and descriptions using the Gemini API key. With its intuitive interface and powerful functionalities, Gemini Chat APK empowers users to seamlessly interact with diverse content and information.
-<br>
+<br><br>
 <img src="https://github.com/NK2552003/Gemini_Chat_AI/assets/102852598/408bcdf0-574f-4712-94a2-bb6cce7d0c33" width=300 height=700/>&ensp;&ensp;
 <img src="https://github.com/NK2552003/Gemini_Chat_AI/assets/102852598/56ac1c05-3b5d-4625-9878-bd3d349b11fe" width=300 height=700/>&ensp;&ensp;
 <img src="https://github.com/NK2552003/Gemini_Chat_AI/assets/102852598/b65f318c-a0ef-4be1-bcb1-f215545a8ee6" width=300 height=700/>&ensp;&ensp;
